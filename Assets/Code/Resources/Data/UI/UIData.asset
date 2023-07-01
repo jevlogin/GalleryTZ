@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f6f5cf95f72274480526f7de69907c, type: 3}
+  m_Name: UIData
+  m_EditorClassIdentifier: 
+  _uiStruct:
+    _canvasPrefab: {fileID: 3940387266276523982, guid: 5eaa1840cf5d1744bb25ae37e6ad08d4, type: 3}
+    _uiPanelMenuPrefab: {fileID: 784194307712696320, guid: e4ad7330577219840ac4cdfc4c1e9940, type: 3}
+    _uiPanelLoadingPrefab: {fileID: 1131727875584388669, guid: 855e770bea3d4fa4eb16b632a5a42e9e, type: 3}
+    _uiPanelGalleryPrefab: {fileID: 3402519268326072299, guid: 0aeb34a1d51abcc4e93dd7ace6cb97bb, type: 3}
+    _uiPanelImageViewPrefab: {fileID: 7820585295586212942, guid: d3d1470c933f81446a81597f157ede26, type: 3}
+    _imagePrefab: {fileID: 9187025328388172224, guid: 472626735ea743246ac9f5601fa20f98, type: 3}
+    _urlBase: https://data.ikppbb.com/test-task-unity-data/pics/
+    _imagePrefix: .jpg
+    _countImages: 66
